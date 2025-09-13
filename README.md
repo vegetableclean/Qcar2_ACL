@@ -82,7 +82,8 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 ---
 
 ## Media
-- [All media (Drive folder)]([https://drive.google.com/drive/folders/1MkZnI7iYakH1oBWLEwlJBJmS07AnL-ch?usp=sharing](https://drive.google.com/drive/folders/1xbBjV_lVEsi4IpfXneyjky1al9OLNP3d?usp=drive_link))]
+<p><a href="https://drive.google.com/drive/folders/1xbBjV_lVEsi4IpfXneyjky1al9OLNP3d?usp=drive_link">📁 View research media on Google Drive</a></p>
+
 
 
 ## Citation (optional)
