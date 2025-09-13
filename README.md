@@ -35,8 +35,8 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 - **Prof. Ehsan Azimi** — Assistant Professor of Electrical & Computer Engineering and Computer Science; Member of the Graduate Faculty (Co-Advisor)
 
 ### Former Members & Contributors
-- **Murad Mehrab Abrar** — M.S. student (former)
-- **Abdullah Alrashidi** — Former contributor
+- **Murad Mehrab Abrar** — M.S. student, University of Arizona 
+- **Abdullah Alrashidi** — PhD student, AME department, University of Arizona 
 
 
 
