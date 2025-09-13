@@ -19,7 +19,12 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 - **Miniature road map / track**
 - **Traffic lights & road signs** (scaled)
 
+![QCar on track](assets/Physical_Qcar.jpg)
 
+<p align="center">
+  <img src="assets/qcar-track.jpg" width="520" alt="QCar on track">
+  <br><em>QCar-2 on the mini map</em>
+</p>
 
 ---
 
