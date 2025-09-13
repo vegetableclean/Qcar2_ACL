@@ -19,7 +19,7 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 - **Miniature road map / track**
 - **Traffic lights & road signs** (scaled)
 
-> If you add or replace equipment, please update this list and any wiring/config notes.
+
 
 ---
 
@@ -27,7 +27,7 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 - **Chieh Tsai** — PhD Student, ECE Department, University of Arizona (project lead)
 - **Prof. Salim Hariri** — Faculty Advisor, Autonomic Computing Lab
 
-> For double-blind releases, replace names with: “Modified by the authors.”
+
 
 ---
 
@@ -35,7 +35,7 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 - **Languages:** MATLAB / Simulink, Python
 - **Operating Systems:** Windows and Linux (PC side)
 
-> Quanser tooling and Simulink integration typically run on **Windows PCs**. Python components may run on Windows or Linux—check module-specific READMEs.
+
 
 ---
 
