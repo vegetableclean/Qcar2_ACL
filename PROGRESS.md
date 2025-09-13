@@ -3,8 +3,8 @@
 _Last updated: 2025-09-12_
 
 ## Status at a Glance
-- ✅ Completed: 0
-- 🚧 In Progress: 0
+- ✅ Completed: 15
+- 🚧 In Progress: ?
 - ⬜ Backlog: ?
 
 ## Completed
@@ -13,7 +13,7 @@ _Last updated: 2025-09-12_
 - ✅ Virtual lab setup
 - ✅ Repo structure (matlab/, python/, docs/, config/)
 - ✅ Team section in README
-## Code Test Completed 
+Code Test Completed 
 1.Hardware tests (C:\Users\localadmin\Downloads\Quanser_Academic_Resources-dev-windows-ACL\Qcar2_ACL\Quanser_Academic_Resources-dev-windows\5_research\sdcs\qcar2\hardware\hardware_tests)
 - ✅ QCar2_hardware_test_intelrealsense
 2.Applications (C:\Users\localadmin\Downloads\Quanser_Academic_Resources-dev-windows-ACL\Qcar2_ACL\Quanser_Academic_Resources-dev-windows\5_research\sdcs\qcar2\hardware\applications)
