@@ -2,7 +2,7 @@
 
 A repository for building and maintaining a reproducible autonomous-vehicle testbed in the **Autonomic Computing Lab (ACL), University of Arizona**. The testbed supports rapid experimentation, teaching, and demos on Quanser QCar platforms.
 
-> **Attribution:** Portions of this codebase originate from **Quanser** examples and have been **modified by the Autonomic Computing Lab (ACL)**.
+
 
 ---
 
