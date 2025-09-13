@@ -24,7 +24,7 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 ---
 
 ## Team
-- **Chieh Tsai** — PhD Student, ECE Department, University of Arizona (project lead)
+- **Chieh Tsai** — PhD Student, ECE Department, University of Arizona 
 - **Prof. Salim Hariri** — Faculty Advisor, Autonomic Computing Lab
 
 
