@@ -15,7 +15,7 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 
 ## Testbed Hardware (Current)
 - **QCar 2** × 2 units
-- **QCar (Gen-1)** × 1 unit
+- **QCar (Gen-1)** × 2 unit
 - **Miniature road map / track**
 - **Traffic lights & road signs** (scaled)
 
