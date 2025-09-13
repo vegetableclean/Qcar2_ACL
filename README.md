@@ -82,8 +82,7 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 ---
 
 ## Media
-- [Experiment video for virtual lab (Google Drive)]([whttps://drive.google.com/file/d/FILE_ID/vie](https://drive.google.com/drive/folders/1HDIEbZlR_ZGZnOkVJJHMVo5HV_53SuuR?usp=sharing))
-- [All media (Drive folder)](https://drive.google.com/drive/folders/FOLDER_ID)](https://drive.google.com/drive/folders/1MkZnI7iYakH1oBWLEwlJBJmS07AnL-ch?usp=sharing)
+- [All media (Drive folder)]([https://drive.google.com/drive/folders/1MkZnI7iYakH1oBWLEwlJBJmS07AnL-ch?usp=sharing](https://drive.google.com/drive/folders/1xbBjV_lVEsi4IpfXneyjky1al9OLNP3d?usp=drive_link))]
 
 
 ## Citation (optional)
