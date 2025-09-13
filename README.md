@@ -28,8 +28,15 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 ---
 
 ## Team
+
+### Current Members
 - **Chieh Tsai** — PhD Student, ECE Department, University of Arizona 
-- **Prof. Salim Hariri** — Faculty Advisor, Autonomic Computing Lab
+- **Prof. Salim Hariri** — Professor, ECE; Faculty Advisor, Autonomic Computing Lab
+- **Prof. Ehsan Azimi** — Assistant Professor of Electrical & Computer Engineering and Computer Science; Member of the Graduate Faculty (Co-Advisor)
+
+### Former Members & Contributors
+- **Murad Mehrab Abrar** — M.S. student (former)
+- **Abdullah Alrashidi** — Former contributor
 
 
 
