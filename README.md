@@ -31,12 +31,12 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 
 ### Current Members
 - **Chieh Tsai** — PhD Student, ECE Department, University of Arizona
-- **Davronkhon Mukhamedaliev**, ECE Department, University of Arizona
+- **Davronkhon Mukhamedaliev**, Undergraduate student, ECE Department, University of Arizona
 - **Prof. Salim Hariri** — Professor, ECE; Faculty Advisor, Autonomic Computing Lab
 - **Prof. Ehsan Azimi** — Assistant Professor of ECE and CS; Member of the Graduate Faculty (Co-Advisor)
 
 ### Former Members & Contributors
-- **Murad Mehrab Abrar** — M.S. student, University of Arizona 
+- **Murad Mehrab Abrar** — M.S. student, ECE department, University of Arizona 
 - **Abdullah Alrashidi** — PhD student, AME department, University of Arizona 
 
 
