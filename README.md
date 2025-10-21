@@ -87,8 +87,8 @@ A repository for building and maintaining a reproducible autonomous-vehicle test
 
 
 
-## Citation (optional)
-If this repository supports a publication, please cite it appropriately. Example BibTeX:
+## Citation 
+If this repository supports a publication, please cite it appropriately. 
 
 ```bibtex
 @misc{acl_qcar_testbed,
