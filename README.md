@@ -95,6 +95,5 @@ If this repository supports a publication, please cite it appropriately.
   title  = {ACL QCar Testbed},
   author = {Tsai, Chieh and Hariri, Salim and ACL Contributors},
   year   = {2025},
-  howpublished = {\url{https://github.com/<org>/<repo>}},
   note   = {Quanser QCar testbed code and docs}
 }
